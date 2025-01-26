@@ -1,0 +1,23 @@
+.main-section{
+    background-image: url(./assets/back.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.nav-icon a{
+    font-size: 25px;
+}
+.nav-icon a i{
+    color: black;
+}
+.nav-icon a i:hover{
+    /* font-size: 40px; */
+    scale: 1.5;
+}
+.title{
+    color: rgb(243, 241, 241);
+    font-weight: 500;
+}
+.name{
+    text-shadow: 10px 10px 5px black;
+}

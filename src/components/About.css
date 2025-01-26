@@ -1,0 +1,8 @@
+
+#about{
+    background-image: url(./assets/about.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: wheat;
+}

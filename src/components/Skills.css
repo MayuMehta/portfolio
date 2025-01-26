@@ -1,0 +1,16 @@
+.grid-item {
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+  }
+#skills{
+    color: aliceblue;
+    text-align: center;
+    background-image: url(./assets/skills.avif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.file{
+    height: 70px;
+}

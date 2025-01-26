@@ -1,0 +1,20 @@
+nav{
+    background-color: rgb(19, 16, 16);
+}
+.nav-bar{
+    align-self: start;
+}
+.navbar-nav a{
+    margin-left: 20px;
+    text-decoration: none;
+    font-weight: 700;
+    text-align: center;
+}
+.title-name{
+    color: wheat;
+    text-shadow: 2px 2px 5px white;
+}
+.navbar-nav a:hover,.title-name:hover{
+    scale: 1.2;
+    color: wheat;
+}

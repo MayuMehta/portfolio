@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "6440cead1f5ff2973ffd31be"
+  },
+  "rollnu": 1,
+  "name": "Mayush Mehta",
+  "address": "Purnia"
+},{
+  "_id": {
+    "$oid": "6440cff01f5ff2973ffd31bf"
+  },
+  "rollnu": 2,
+  "name": "Anjali Kumari",
+  "address": "Bhagalpur"
+},{
+  "_id": {
+    "$oid": "6440d1321f5ff2973ffd31c0"
+  },
+  "rollnu": 3,
+  "name": "Ayush Raj",
+  "address": "Purnia"
+},{
+  "_id": {
+    "$oid": "6440d1321f5ff2973ffd31c1"
+  },
+  "rollnu": 4,
+  "name": "Richa jha",
+  "address": "Bhagalpur"
+},{
+  "_id": {
+    "$oid": "6440d2541f5ff2973ffd31c8"
+  },
+  "rollnu": 5,
+  "name": "Ranjan Kumar",
+  "address": "Khagaria"
+},{
+  "_id": {
+    "$oid": "6440d2541f5ff2973ffd31c9"
+  },
+  "rollnu": 6,
+  "name": "Amrit Kumar Singh",
+  "address": "Patna"
+},{
+  "_id": {
+    "$oid": "6440d2541f5ff2973ffd31ca"
+  },
+  "rollnu": 7,
+  "name": "Pankaj Kumar",
+  "address": "Chhapra"
+},{
+  "_id": {
+    "$oid": "6440d2541f5ff2973ffd31cb"
+  },
+  "rollnu": 8,
+  "name": "Adarsh Kumar",
+  "address": "Samastipur"
+},{
+  "_id": {
+    "$oid": "6440d2541f5ff2973ffd31cc"
+  },
+  "rollnu": 9,
+  "name": "Grandhi Subhash",
+  "address": "Nellore"
+},{
+  "_id": {
+    "$oid": "6440d2541f5ff2973ffd31cd"
+  },
+  "rollnu": 10,
+  "name": "Monu Kumar",
+  "address": "Purnia"
+}]
